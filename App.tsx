@@ -23,7 +23,7 @@ import InputField from './components/InputField';
 import Translate from './components/Translate';
 
 import { NavigationContainer } from '@react-navigation/native';
-// git test
+// set environment on mac
 
 function App(): JSX.Element {
 
